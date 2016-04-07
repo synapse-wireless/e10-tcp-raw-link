@@ -41,3 +41,7 @@ The application should start at boot if configured per above instructions.
 
 Use Portal to set the channel of your E10's bridge node, and if desired you can
 upload the "e10bridge.py" SNAPpy script to it for status LED support.
+
+## License
+
+Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
