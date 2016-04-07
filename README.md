@@ -45,3 +45,5 @@ upload the "e10bridge.py" SNAPpy script to it for status LED support.
 ## License
 
 Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
+
+<!-- meta-tags: vvv-e10, vvv-snapconnect, vvv-python, vvv-example -->
